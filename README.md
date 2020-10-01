@@ -1,6 +1,6 @@
 # Tetris [![LICENSE](https://img.shields.io/github/license/deepgrace/tetris.svg)](https://github.com/deepgrace/tetris/blob/master/LICENSE_1_0.txt)
 
-> **Awesome Tetris in all kinds of Languages(C, C++, Go, Shell)**
+> **Stunning Tetris in all kinds of Languages(C, C++, Go, Shell)**
 
 # Screenshots
 <img alt = "Tetris" src="https://raw.githubusercontent.com/deepgrace/tetris/master/screenshots/png/p1.png">
