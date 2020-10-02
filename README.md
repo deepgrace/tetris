@@ -30,3 +30,7 @@
      Usage        :  ./tetris [ <runlevel> [ <previewlevel> [ <speedlevel> [ <width> [height] ] ] ] ] 
      Range        :  [ 0 <= runlevel <= 31 ] [ previewlevel >= 1 ] [ speedlevel <= 30 ] [ width >= 17 ] [ height >= 10 ]
      Notice       :  runlevel previewlevel speedlevel width height belong to integer
+
+ ## Tetris: The Soviet 'mind game' that took over the world
+Tetris is a puzzle game in which geometric shapes called "tetrominoes" fall down onto a playing field, and the player has to arrange them to form gapless lines. Pajitnov   took inspiration from pentomino, a classic puzzle game consisting of all the different shapes that can be made by combining five squares -- 12 in total -- with the goal of arranging them in a wooden box like a jigsaw puzzle.<br><br>
+To simplify things, he knocked that down to four squares, thus reducing the number of shapes from 12 to seven. He called the game Tetris, combining the Greek numeral      "tetra" (meaning four) and tennis, his favorite sport.
